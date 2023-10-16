@@ -14,7 +14,6 @@ public class Window extends JFrame{
         window.setTitle("Bomberguy");
         window.setVisible(true);
         window.add(panel);
-        window.add(player);
         window.setResizable(false);
         window.setDefaultCloseOperation(window.EXIT_ON_CLOSE);
         window.setIconImage(image.getImage());

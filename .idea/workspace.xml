@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ace021f-530f-49eb-8307-e7cdf50f41a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOMBER GUY.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOMBERMAN/BOMB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOMBERMAN/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOMBERMAN/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOMBERMAN/Panel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOMBERMAN/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOMBERMAN/Window.java" afterDir="false" />
+    <list default="true" id="6ace021f-530f-49eb-8307-e7cdf50f41a3" name="Changes" comment="ALLT IN PÅ GIT!!!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOMBERMAN/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOMBERMAN/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOMBERMAN/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOMBERMAN/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +57,18 @@
       <option name="presentableId" value="Default" />
       <updated>1695127299525</updated>
     </task>
+    <task id="LOCAL-00001" summary="ALLT IN PÅ GIT!!!">
+      <created>1696942462596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696942462596</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ALLT IN PÅ GIT!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="ALLT IN PÅ GIT!!!" />
   </component>
 </project>
