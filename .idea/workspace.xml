@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6ace021f-530f-49eb-8307-e7cdf50f41a3" name="Changes" comment="ALLT IN PÅ GIT!!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOMBERMAN/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOMBERMAN/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOMBERMAN/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOMBERMAN/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,20 +28,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/oliwier.kondratowic/IdeaProjects/BOMBER GUY/src/BOMBERMAN&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/oliwier.kondratowic/IdeaProjects/BOMBER GUY/src/BOMBERMAN",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\oliwier.kondratowic\IdeaProjects\BOMBER GUY\src\BOMBERMAN" />
       <recent name="C:\Users\oliwier.kondratowic\IdeaProjects\BOMBER GUY\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oliwier.kondratowic\IdeaProjects\BOMBER GUY" />
       <recent name="C:\Users\oliwier.kondratowic\IdeaProjects\BOMBER GUY\src\BOMBERMAN" />
       <recent name="C:\Users\oliwier.kondratowic\IdeaProjects\BOMBER GUY\src" />
     </key>
@@ -64,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696942462596</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ALLT IN PÅ GIT!!!">
+      <created>1697444867467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697444867467</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ALLT IN PÅ GIT!!!">
+      <created>1704806315189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704806315189</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
